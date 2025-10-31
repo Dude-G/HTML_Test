@@ -58,7 +58,8 @@ nav{
     top: 21px;
     left: 90px;
     border-radius: 5px; 
-    background-color: yellow; 
+    background-color: yellow;
+    border: 2px solid black;
     
 }
 
