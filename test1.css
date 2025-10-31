@@ -105,13 +105,22 @@ nav{
 }
 
 .imgclass{
-    width: 1500px;
-    height: 920px;
+    width: 1440px;
+    height: 902px;
     margin: 0 auto;
     display: block;
     
     text-align: center;
     
+}
+
+.imgclass2{
+   width: 1330px;
+    height: 526px;
+    margin: 0 auto;
+    display: block;
+    
+    text-align: center;   
 }
 
 .imgclass img{
