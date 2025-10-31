@@ -110,7 +110,7 @@ nav{
     height: 902px;
     margin: 0 auto;
     display: block;
-
+ border: solid black;
     text-align: center;
     
 }
@@ -127,12 +127,13 @@ nav{
      font-weight: normal;
      text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
 }
+
 .imgclass2{
    width: 1330px;
     height: 526px;
     margin: 0 auto;
     display: block;
-    
+    border: solid black;
     text-align: center;   
 }
 
@@ -143,12 +144,7 @@ nav{
 
 .imgclass img{
     width: 100%;
-    display: block;
-}
-
-.justtext{
-    
-}
+    display: block;}
 
 .secondtext{
    text-align: center;
@@ -159,10 +155,117 @@ font-size: 40px;
 line-height: 58px;
 /* identical to box height, or 145% */
 text-align: center;
-letter-spacing: 0.05em;
-   
+letter-spacing: 0.05em;   padding: 40px 40px;
 }
 
 .thirdtext{
+     text-align: center;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 100%;
+/* identical to box height, or 145% */
+text-align: center;
+letter-spacing: 0%;
+padding: 40px 40px;
+   
+}
+
+.imgclass3{
+    width: 1396px;
+    height: 440px;
+    margin: 0 auto;
+    display: block;
+    top: 11px;
+    border: 2px;
+
+    text-align: center;
     
 }
+
+.imgclass3 img{
+    border: solid black;
+    width: 100%;
+    display: block;
+}
+
+.he4{
+     text-align: center;
+    position: absolute;
+    top: 208%;
+    left: 75%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 48px;
+    font-family: 'Inter', sans-serif;
+     text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.7);
+     font-weight: normal;
+     text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+}
+
+.he5{
+     text-align: center;
+    position: absolute;
+    top: 253%;
+    left: 24%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 48px;
+    font-family: 'Inter', sans-serif;
+     text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.7);
+     font-weight: normal;
+     text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+}
+
+.imgclass4{
+    margin-top: 10px;
+    text-align: center;
+    border: 2px solid black;
+    width: 690px;
+    height: 440px;
+    margin-left: 255px;
+    display: block;
+    top: 11px
+    
+}
+.imgclass4 img{
+    width: 100%;
+    display: block;
+    border: 2px solid black;
+    
+}
+
+.imgclass5{
+    position: absolute;
+    margin-top: 10px;
+    border: 2px solid black;
+    width: 690px;
+    height: 440px;
+    margin-left: 967px;
+    display: block;
+    top: 2148px 
+    
+}
+
+.imgclass5 img{
+    width: 100%;
+    display: block;
+    border: 2px solid black;
+}
+
+.he6{
+     text-align: center;
+    position: absolute;
+    top: 253%;
+    left: 66%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 48px;
+    font-family: 'Inter', sans-serif;
+     text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.7);
+     font-weight: normal;
+     text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+     
+}
+
