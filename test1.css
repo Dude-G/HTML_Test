@@ -75,6 +75,7 @@ font-style: italic;
 font-weight: 400;
 font-size: 150px;
 line-height: 234px;
+margin: 0 auto;
 
 
 color: #000000;
@@ -82,11 +83,10 @@ color: #000000;
 }
 
 .imgclass{
-    width: 1800px;
-    height: 1000px;
-    margin: auto;
-    align-items: center;
-    
+    width: 1500px;
+    height: 920px;
+    margin: 0 auto;
+    display: block;
 }
 
 .justtext{
@@ -94,9 +94,13 @@ color: #000000;
 font-weight: 400;
 font-style: Regular;
 font-size: 48px;
-leading-trim: NONE;
 line-height: 100%;
 letter-spacing: 2.5%;
 text-align: center;
 
+}
+
+.secondtext{
+   text-align: center; 
+   
 }
